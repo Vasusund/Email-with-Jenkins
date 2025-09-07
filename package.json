@@ -1,0 +1,23 @@
+{
+  "name": "email-with-jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "test": "npm test",
+  "audit": "npm audit"
+}
+,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vasusund/Email-with-Jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vasusund/Email-with-Jenkins/issues"
+  },
+  "homepage": "https://github.com/Vasusund/Email-with-Jenkins#readme"
+}
